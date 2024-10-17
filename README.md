@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Cosmas Tadiwanashe Mandikonza</h1>
 <h3 align="center">A dedicated data scientist, software developer and innovator</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python programming**
 
-- 📫 How to reach me **cosmas.t.mandikonza@gmail.com**
+- 📫 How to reach me **cmandikonza@css.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
