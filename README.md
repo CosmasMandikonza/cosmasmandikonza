@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Google Gemini API project**
 
-- 🌱 I’m currently learning **MongoDB,svelte,Tailwind**
+- 🌱 I’m currently learning **Fullstack Application Development**
 
-- 🤝 I’m looking for help with **Professional speaking and networking opportunities**
+- 🤝 I’m looking for help with **Summer internships,Professional speaking and networking opportunities**
 
-- 💬 Ask me about **Python programming**
+- 💬 Ask me about **Java and Python programming**
 
 - 📫 How to reach me **cmandikonza@css.edu**
 
